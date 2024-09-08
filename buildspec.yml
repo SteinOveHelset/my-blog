@@ -1,0 +1,20 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo Installing dependencies...
+      - apt-get update
+      - apt-get install -y hugo
+  build:
+    commands:
+      - echo Building the Hugo site...
+      - hugo
+  post_build:
+    commands:
+      - echo Build completed.
+
+artifacts:
+  files:
+    - '**/*'
+  base-directory: public
