@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Jan 2024 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Post</title>
+      <link>http://localhost:1313/posts/another-post/</link>
+      <pubDate>Tue, 02 Jan 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/another-post/</guid>
+      <description>&lt;p&gt;This is another post to demonstrate how Clio can help you create and manage static blogs. With Clio, you can automate various tasks, making the process of setting up and maintaining your blog efficient and straightforward.&lt;/p&gt;&#xA;&lt;p&gt;Clio can assist you in creating new content, managing themes, and deploying your static site. By leveraging Clio&amp;rsquo;s capabilities, you can focus on writing great content while Clio handles the technical details.&lt;/p&gt;&#xA;&lt;p&gt;In this post, we explore the benefits of using Clio for your static blog and how it can streamline your workflow. Whether you&amp;rsquo;re a seasoned developer or a beginner, Clio provides the tools and guidance you need to build a beautiful and functional static blog.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Clio Can Be Used for Creating Static Blogs</title>
+      <link>http://localhost:1313/posts/how-clio-can-be-used-for-creating-static-blogs/</link>
+      <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/how-clio-can-be-used-for-creating-static-blogs/</guid>
+      <description>&lt;p&gt;Creating static blogs has never been easier with Clio, your slightly grumpy but friendly assistant. Clio is designed to help you with DevOps-related tasks using CLI programs, making the process of setting up and managing static blogs straightforward and efficient.&lt;/p&gt;&#xA;&lt;p&gt;With Clio, you can quickly set up a static site generator like Hugo, Jekyll, or Gatsby. Clio can install the necessary software, create new sites, add themes, and even generate content for your blog. For instance, Clio can install Hugo, initialize a new site, and add a theme with just a few commands.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
